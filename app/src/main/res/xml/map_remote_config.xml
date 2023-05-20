@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaults>
+    <entry>
+        <key>home_screen</key>
+        <value>
+            [
+            {
+            "view_type": "container_appbar",
+            "container_appbar": {
+            "appbar_search_hint": "person",
+            "appbar_search_hint_color": "blue"
+            }
+            }
+            ]
+        </value>
+    </entry>
+</defaults>
